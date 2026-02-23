@@ -1,9 +1,9 @@
-# 🛍️ Pelican Stores – Exploratory Data Analysis
+# Pelican Stores – Exploratory Data Analysis
 
 A data analysis project exploring customer purchasing behaviour at Pelican Stores, a division of National Clothing. 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 Pelican Stores ran a promotional campaign where discount coupons were distributed to customers of other National Clothing stores. A sample of **100 in-store credit card transactions** was collected during the promotion to help management understand their customer base and evaluate the campaign's effectiveness.
 
@@ -11,7 +11,7 @@ This project performs a full **Exploratory Data Analysis (EDA)** on that dataset
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 pelican-stores-eda/
@@ -31,7 +31,7 @@ pelican-stores-eda/
 
 ---
 
-## 📊 Dataset Variables
+## Dataset Variables
 
 | Variable | Description |
 |---|---|
@@ -48,7 +48,7 @@ pelican-stores-eda/
 
 ---
 
-## 🔍 Analysis Summary
+## Analysis Summary
 
 The report covers:
 
@@ -59,9 +59,9 @@ The report covers:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
-- Python 3.x
+- `Python 3.x`
 - `pandas` 
 - `matplotlib`
 - `seaborn` 
@@ -69,7 +69,7 @@ The report covers:
 - `numpy`
 
 
-## 📝 Notes
+## Notes
 
 - Dataset contains 100 observations collected over a single trading day during the promotion.
 - Analysis completed as part of a university assignment on descriptive statistics and EDA.
